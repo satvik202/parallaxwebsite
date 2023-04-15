@@ -25,4 +25,5 @@ Custom graphics and animations
 Contact form with validation
 
 Installation
+
 To view the website locally, clone the repository and open the title.html file in a web browser
